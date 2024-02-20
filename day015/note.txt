@@ -1,0 +1,6 @@
+1 Dollar
+Half Dollar: 50 Cent
+Quarter Dollar: 25 Cent
+Dime: 10 Cent
+Nickel: 5 Cent
+Penny: 1 Cent
